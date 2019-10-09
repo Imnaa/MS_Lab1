@@ -1,0 +1,13 @@
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.exe.config
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.exe
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.pdb
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.csprojAssemblyReference.cache
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.FormMain.resources
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.Properties.Resources.resources
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.csproj.GenerateResource.cache
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.exe
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.pdb
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\bin\Debug\ru-RU\MS_Lab1.resources.dll
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.FormMain.ru-RU.resources
+C:\Users\kolya\source\repos\MS_Lab1\MS_Lab1\obj\Debug\ru-RU\MS_Lab1.resources.dll
